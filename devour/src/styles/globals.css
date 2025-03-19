@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Orange Theme Colors */
+:root {
+  --primary: #ff6600; /* Orange */
+  --secondary: #ff9800; /* Light Orange */
+  --background: #fff3e0; /* Lightest Orange */
+}
